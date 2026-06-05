@@ -1,0 +1,3 @@
+// 使用 RT_RCDATA 避免资源编译器对关键字 FONT 的限制
+// "MSYH_FONT" 是你给这个资源起的名称
+IDR_FONT_MSYH RCDATA "Assets/fonts/msyh.ttf"
